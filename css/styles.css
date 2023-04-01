@@ -71,7 +71,7 @@ body{
     color:antiquewhite;
     margin-top: 90px;
  }
-
+/**************************************Formulario**************************************/
  .fm_contact{
    width: 45%;
    height: auto;
@@ -96,7 +96,7 @@ body{
   padding: 15px 2px;
   margin: 1%;
   font-size: 20px;
-  background-color: #f2ac57c7;
+  background-color: #f2ac57e3;
   outline: none;
   border: none;
   border-bottom: 2px solid #401C14;
@@ -114,7 +114,7 @@ body{
    border: none;
    border-bottom: 2px solid #401C14;
    outline: none;
-   background-color: #f2ac57c7;
+   background-color: #f2ac57e3;
  } 
 
  .msn{
@@ -148,7 +148,7 @@ body{
    text-decoration: underline;
    transition: .7s;
  } 
-
+/*********************************************footer**********************************************/
  .footer{
    width: 100%;
    height: auto;
@@ -210,26 +210,28 @@ body{
    color: #fff;
    text-decoration: none;
  }
-
+/*************************************Cards*************************************/
  .card{ 
    width: 60%;
    margin: 5% auto;
    border: 5px solid #bf7950d0;
-   background-color: #d97e07f3;
+   background-color: #ff3c11;
    text-align: center;
    color: #fff;
+   font-size: 22px;
 } 
 
 .cardProf{ 
   width: 60%;
   margin: 5% auto;
-  border: 5px solid #bf7950d0;
-  background-color: #e27f15fa;
+  border: 5px solid #D92D07;
+  background-color: #eb1911f6;
   text-align: center;
   color: #fff;
+  font-size: 22px;
 } 
 
- .title-card{
+.title-card{
    font-size: 24px;
    padding: 2%;
 }
@@ -246,7 +248,8 @@ body{
 .btnRegistrar:hover, .btnCancelar:hover{
    background: #F22929; 
    text-decoration:underline;
-} 
+}
+/*****************************************Alertas******************************************/ 
 .alerta{
    width: 30%;
    height: auto; 
